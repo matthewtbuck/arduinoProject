@@ -5,5 +5,9 @@ For this project, I used two inputs: a potentiometer and a 4x4 keypad. The outpu
 To use this circuit, one merely has to turn the arduino on. Upon bootup, the arduino will display "Passcode?" at which point you are able to being inputting numbers onto the keypad. If you guess the correct passcode, the LCD will return "Correct!"
 
 ![Circuit](https://github.com/matthewtbuck/arduinoProject/blob/main/keypadLCD.png?raw=true)
-![ino file](https://github.com/matthewtbuck/arduinoProject/blob/main/copy_of_keypad_and_lcd1.ino)
-![Link to Circuit] https://www.tinkercad.com/things/9yY1ntV72mk-copy-of-keypad-and-lcd/editel?sharecode=eAW22JLDyil9E4l_pybXeRKG7cI4j7Nnm3SxCVPxCKQ
+
+ino file:
+https://github.com/matthewtbuck/arduinoProject/blob/main/copy_of_keypad_and_lcd1.ino)
+
+Link to Circuit:
+https://www.tinkercad.com/things/9yY1ntV72mk-copy-of-keypad-and-lcd/editel?sharecode=eAW22JLDyil9E4l_pybXeRKG7cI4j7Nnm3SxCVPxCKQ
