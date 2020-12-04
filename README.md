@@ -6,3 +6,4 @@ To use this circuit, one merely has to turn the arduino on. Upon bootup, the ard
 
 ![Circuit](https://github.com/matthewtbuck/arduinoProject/blob/main/keypadLCD.png?raw=true)
 ![ino file](https://github.com/matthewtbuck/arduinoProject/blob/main/copy_of_keypad_and_lcd1.ino)
+![Link to Circuit](https://www.tinkercad.com/things/9yY1ntV72mk-copy-of-keypad-and-lcd/editel)
